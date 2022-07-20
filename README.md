@@ -50,4 +50,29 @@
 
 ## **Habilidades**
 
+- ![Logo JS](icons8-javascript.svg) JavaScript
+- ![Logo Java](icons8-java.svg) Java
+- ![Logo React](icons8-react.svg) React
+- ![Logo Csharp](icons8-c-sharp-logo.svg) C#
+- ![Logo CSS](icons8-css3.svg) CSS
+- ![Logo HTML](icons8-html-5.svg) HTML 5
+- ![Logo SQL](icons8-sql-60.png) Microsoft SQL Server
+- ![Logo Visual](icons8-visual-studio.svg) Visual Studio
+
+## **Competencias**
+* Capacidad resolutiva
+* Proactivo
+* Detallista
+
+## **Referencias Profesionales**
+1. Diego Brandon
+    - Director - Hotel Bahamas
+    - +598 98 226 533
+2. Eliana López
+   - Team Leader Devoluciones - Despegar
+   - +598 95 523 114
+3. Rosana 
+   - Supervisora de Laboratorios de Informática - Universidad ORT
+
+
 
