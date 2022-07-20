@@ -11,6 +11,8 @@ Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo
 Trabajador detallista y resolutivo, buen colaborador que prefiere el trabajo en equipo. De aprendizaje rápido. 
 
 Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tecnologías.
+
+Pueden visitar mi perfil de LinkedIn:  https://www.linkedin.com/in/guillermocardozo/
    
 ## **Experiencia Laboral**
 
