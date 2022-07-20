@@ -1,5 +1,17 @@
 # **Guillermo Cardozo - Estudiante avanzado de Programación**
-![This is me](Foto.jpg)
+![This is me](Foto.png)  
+   
+## **Acerca de mí**
+Bienvenid@s a mi perfil! :wave: :computer:
+
+Soy estudiante avanzado de la carrera Analista en Tecnologías de la Información.
+
+Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo de inglés fluido y conocimientos de portugués.
+
+Trabajador detallista y resolutivo, buen colaborador que prefiere el trabajo en equipo. De aprendizaje rápido. 
+
+Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tecnologías.
+   
 ## **Experiencia Laboral**
 
 #### Asistente de Laboratorio de Informática
