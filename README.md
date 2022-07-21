@@ -12,17 +12,6 @@ Trabajador detallista, de aprendizaje rápido y resolutivo, buen colaborador que
 
 Además de mis conocimientos, aporto una actitud positiva, voluntad y motivación para aprender nuevas tecnologías.
 
-### Datos personales:
-
-   :iphone:  +598 93 840 153
-   
-   :round_pushpin:  Montevideo, Uruguay
-   
-   ![Logo_Fecha](calendar.png)  29/07/1994
-   
-   :e-mail:  guille.cardozo94@gmail.com
-
-   ![Logo LinkedIn](linkedin.png)  https://www.linkedin.com/in/guillermocardozo/
    
 ## **Experiencia Laboral**
 
