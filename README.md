@@ -4,7 +4,7 @@
 ## :memo: **About me**  
 Welcome to my profile! :wave: :computer:
 
-I am an advanced student of the Information Technology Analyst career at the Universidad ORT.
+I am an advanced student of the Information Technology Analyst career at the ORT University of Uruguay.
 
 With solid knowledge in different programming languages and SQL, fluent English and knowledge of Portuguese.
 
@@ -16,7 +16,7 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 ## **Work Experience**
 
 ### :star: Computer Laboratory Assistant
-#### Universidad ORT del Uruguay - Montevideo, Uruguay
+#### ORT University of Uruguay - Montevideo, Uruguay
 ##### *April 2022 - Present*
    :heavy_check_mark: Installation and updating of Software 
    
@@ -52,7 +52,7 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    :heavy_check_mark: Management of internal system, Outlook and Excel
 
 ### :star: Booking agent
-#### Hotel Bahamas - Canelones, Uruguay
+#### Bahamas Hotel - Canelones, Uruguay
 ##### *2016 - 2017*
    :heavy_check_mark: Public attention
    
@@ -62,9 +62,9 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 
 ## ![Logo Educacion](educacion.png) **Education and Languages**
 
-1. Universidad ORT del Uruguay (2021 - Present)
+1. ORT University of Uruguay (2021 - Present)
    - Information Technology Analyst
-2. Universidad ORT del Uruguay (2017)
+2. ORT University of Uruguay (2017)
    - Tourism Management Technician
 3. Aspen Tree Institute (University of Cambridge)
    - First Certificate in English (2013)
@@ -78,7 +78,7 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 - ![Logo React](icons8-react.svg) React JS
 - ![Logo Csharp](icons8-c-sharp-logo.svg) C#
 - ![Logo CSS](icons8-css3.svg) CSS
-- ![Logo HTML](icons8-html-5.svg) HTML 5
+- ![Logo HTML](icons8-html-5.svg) HTML5
 - ![Logo SQL](icons8-sql-60.png) Microsoft SQL Server
 - ![Logo Visual](icons8-visual-studio.svg) Visual Studio
 
@@ -91,8 +91,8 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 
 ## **References**
 1. Diego Brandon
-    - Director - Hotel Bahamas
+    - Director - Bahamas Hotel
 2. Eliana López
    - Team Leader Devoluciones - Despegar
 3. Diego Martínez 
-   - Head of reception - Hotel Bahamas
+   - Head of reception - Bahamas Hotel
