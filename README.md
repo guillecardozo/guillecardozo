@@ -4,7 +4,7 @@
 ## :memo: **Acerca de mí**  
 Bienvenid@s a mi perfil! :wave: :computer:
 
-Soy estudiante avanzado de la carrera Analista en Tecnologías de la Información.
+Soy estudiante avanzado de la carrera Analista en Tecnologías de la Información en la Universidad ORT del Uruguay.
 
 Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo de inglés fluido y conocimientos de portugués.
 
