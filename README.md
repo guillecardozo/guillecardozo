@@ -1,7 +1,7 @@
 # **Guillermo Cardozo - Advanced Programming student**
 ![This is me](FotoGitHub.jpg)  
    
-## :memo: **Acerca de mí**  
+## :memo: **About me**  
 Welcome to my profile! :wave: :computer:
 
 I am an advanced student of the Information Technology Analyst career at the Universidad ORT.
