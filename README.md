@@ -12,7 +12,7 @@ Trabajador detallista y resolutivo, buen colaborador que prefiere el trabajo en 
 
 Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tecnologías.
 
-### Datos personales
+### Datos personales:
 
    :iphone: Teléfono: +598 93 840 153
    
@@ -25,7 +25,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
 ## **Experiencia Laboral**
 
-### Asistente de Laboratorio de Informática
+### :star: Asistente de Laboratorio de Informática
 #### Universidad ORT del Uruguay - Montevideo, Uruguay
 ##### *Abril 2022 - Actual*
    :heavy_check_mark: Instalación y actualización de Software en Equipos
@@ -34,7 +34,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :heavy_check_mark: Responder consultas de alumnos sobre tareas de Programación y otras materias
 
-### IT Service Desk
+### :star: IT Service Desk
 #### TATA Consultancy Services - Montevideo, Uruguay
 ##### *Enero 2022 - Abril 2022*
    :heavy_check_mark: Brindar atención telefónica a clientes en USA sobre Hardware y Software
@@ -43,7 +43,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :heavy_check_mark: Intercambio constante de chats y mails con diferentes clientes
 
-### Auditor Nocturno
+### :star: Auditor Nocturno
 #### Hotel SB Diagonal Zero - Barcelona, España
 ##### *2019 - 2020*
    :heavy_check_mark: Revisión de procesos de las distintas áreas del hotel
@@ -52,7 +52,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :heavy_check_mark: Elaboración de informes a Gerencia
 
-### Agente de Devoluciones
+### :star: Agente de Devoluciones
 #### Despegar - Montevideo, Uruguay
 ##### *2017 - 2019*
    :heavy_check_mark: Análisis profundo de reservas canceladas
@@ -61,7 +61,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :heavy_check_mark: Manejo de sistema interno, Outlook y planillas Excel
 
-### Agente de Reservas
+### :star: Agente de Reservas
 #### Hotel Bahamas - Canelones, Uruguay
 ##### *2016 - 2017*
    :heavy_check_mark:Análisis profundo de reservas canceladas
