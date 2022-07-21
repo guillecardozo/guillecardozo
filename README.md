@@ -86,7 +86,7 @@ Además de mis conocimientos, aporto una actitud positiva, voluntad y motivació
 
 - ![Logo JS](icons8-javascript.svg) JavaScript
 - ![Logo Java](icons8-java.svg) Java
-- ![Logo React](icons8-react.svg) React
+- ![Logo React](icons8-react.svg) React JS
 - ![Logo Csharp](icons8-c-sharp-logo.svg) C#
 - ![Logo CSS](icons8-css3.svg) CSS
 - ![Logo HTML](icons8-html-5.svg) HTML 5
