@@ -14,14 +14,13 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
 
 ### Datos personales:
 
-   :iphone: Teléfono: +598 93 840 153
+   :iphone:  +598 93 840 153
    
-   :round_pushpin: Dirección: Montevideo, Uruguay
+   :round_pushpin:  Montevideo, Uruguay
    
-   :e-mail: E-mail: guille.cardozo94@gmail.com
-   
+   :e-mail:  guille.cardozo94@gmail.com
 
- ![Logo LinkedIn](icons8-linkedin-circled.svg) https://www.linkedin.com/in/guillermocardozo/
+   ![Logo LinkedIn](linkedin.png)  https://www.linkedin.com/in/guillermocardozo/
    
 ## **Experiencia Laboral**
 
