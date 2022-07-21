@@ -51,7 +51,7 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    
    :heavy_check_mark: Management of internal system, Outlook and Excel
 
-### :star: Booking agent
+### :star: Booking Agent
 #### Bahamas Hotel - Canelones, Uruguay
 ##### *2016 - 2017*
    :heavy_check_mark: Public attention
