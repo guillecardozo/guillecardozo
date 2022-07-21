@@ -1,5 +1,5 @@
 # **Guillermo Cardozo - Estudiante avanzado de Programación**
-![This is me](Foto.jpg)  
+![This is me](FotoGitHub.jpg)  
    
 ## **Acerca de mí**   ![Logo LinkedIn](icons8-linkedin-circled.svg) https://www.linkedin.com/in/guillermocardozo/
 Bienvenid@s a mi perfil! :wave: :computer:
