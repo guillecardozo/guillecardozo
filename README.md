@@ -82,7 +82,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
 4. Instituto Brasil Club
    - Diploma de portugués básico (2014)
 
-## **Habilidades**
+## **Habilidades técnicas**
 
 - ![Logo JS](icons8-javascript.svg) JavaScript
 - ![Logo Java](icons8-java.svg) Java
