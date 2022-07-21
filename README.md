@@ -1,77 +1,77 @@
-# **Guillermo Cardozo - Estudiante avanzado de Programación**
+# **Guillermo Cardozo - Advanced Programming student**
 ![This is me](FotoGitHub.jpg)  
    
 ## :memo: **Acerca de mí**  
-Bienvenid@s a mi perfil! :wave: :computer:
+Welcome to my profile! :wave: :computer:
 
-Soy estudiante avanzado de la carrera Analista en Tecnologías de la Información en la Universidad ORT del Uruguay.
+I am an advanced student of the Information Technology Analyst career at the Universidad ORT.
 
-Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo de inglés fluido y conocimientos de portugués.
+With solid knowledge in different programming languages and SQL, fluent English and knowledge of Portuguese.
 
-Trabajador detallista, de aprendizaje rápido y resolutivo, buen colaborador que prefiere el trabajo en equipo.
+Detail-oriented worker, quick and decisive learner, good collaborator who prefers teamwork.
 
-Además de mis conocimientos, aporto una actitud positiva, voluntad y motivación para aprender nuevas tecnologías.
+In addition to my knowledge, I bring a positive attitude, willingness and motivation to learn new technologies.
 
    
-## **Experiencia Laboral**
+## **Work Experience**
 
-### :star: Asistente de Laboratorio de Informática
+### :star: Computer Laboratory Assistant
 #### Universidad ORT del Uruguay - Montevideo, Uruguay
-##### *Abril 2022 - Actual*
-   :heavy_check_mark: Instalación y actualización de Software en Equipos
+##### *April 2022 - Present*
+   :heavy_check_mark: Installation and updating of Software 
    
-   :heavy_check_mark: Asistencia a Docentes
+   :heavy_check_mark: Assistance to Teachers
    
-   :heavy_check_mark: Responder consultas de alumnos sobre tareas de Programación y otras materias
+   :heavy_check_mark: Answer questions from students about programming tasks and other subjects
 
 ### :star: IT Service Desk
 #### TATA Consultancy Services - Montevideo, Uruguay
-##### *Enero 2022 - Abril 2022*
-   :heavy_check_mark: Brindar atención telefónica a clientes en USA sobre Hardware y Software
+##### *January 2022 - April 2022*
+   :heavy_check_mark: Provide telephone assistance to customers in the USA on Hardware and Software
    
-   :heavy_check_mark: Uso de sistemas de tickets
+   :heavy_check_mark: Use of ticket system
    
-   :heavy_check_mark: Intercambio constante de chats y mails con diferentes clientes
+   :heavy_check_mark: Constant exchange of chats and mails with different clients
 
-### :star: Auditor Nocturno
+### :star: Night Auditor
 #### Hotel SB Diagonal Zero - Barcelona, España
 ##### *2019 - 2020*
-   :heavy_check_mark: Revisión de procesos de las distintas áreas del hotel
+   :heavy_check_mark: Review of processes in the different areas of the hotel
    
-   :heavy_check_mark: Atención al público
+   :heavy_check_mark: Public attention
    
-   :heavy_check_mark: Elaboración de informes a Gerencia
+   :heavy_check_mark: Preparation of reports to Management
 
-### :star: Agente de Devoluciones
+### :star: Returns Agent
 #### Despegar - Montevideo, Uruguay
 ##### *2017 - 2019*
-   :heavy_check_mark: Análisis profundo de reservas canceladas
+   :heavy_check_mark: Deep analysis of canceled reservations
    
-   :heavy_check_mark: Devolución por tarjeta de crédito según corresponda
+   :heavy_check_mark: Refund by credit card as appropriate
    
-   :heavy_check_mark: Manejo de sistema interno, Outlook y planillas Excel
+   :heavy_check_mark: Management of internal system, Outlook and Excel
 
-### :star: Agente de Reservas
+### :star: Booking agent
 #### Hotel Bahamas - Canelones, Uruguay
 ##### *2016 - 2017*
-   :heavy_check_mark:Análisis profundo de reservas canceladas
+   :heavy_check_mark: Public attention
    
-   :heavy_check_mark: Devolución por tarjeta de crédito según corresponda
+   :heavy_check_mark: Upload reservations to the system
    
-   :heavy_check_mark:Manejo de sistema interno, Outlook y planillas Excel
+   :heavy_check_mark: Revenue Management
 
-## ![Logo Educacion](educacion.png) **Educación e Idiomas**
+## ![Logo Educacion](educacion.png) **Education and Languages**
 
-1. Universidad ORT del Uruguay (2021 - Actualmente)
-   - Analista en Tecnologías de la Información
-2. Universidad ORT del Uruguay (Finalizado en 2017)
-   - Técnico en Gerencia Turística
-3. Instituto Aspen Tree (University of Cambridge)
+1. Universidad ORT del Uruguay (2021 - Present)
+   - Information Technology Analyst
+2. Universidad ORT del Uruguay (2017)
+   - Tourism Management Technician
+3. Aspen Tree Institute (University of Cambridge)
    - First Certificate in English (2013)
-4. Instituto Brasil Club
-   - Diploma de portugués básico (2014)
+4. Brasil Club Institute
+   - Basic Portuguese Diploma (2014)
 
-## **Habilidades técnicas**
+## **Technical skills**
 
 - ![Logo JS](icons8-javascript.svg) JavaScript
 - ![Logo Java](icons8-java.svg) Java
@@ -82,17 +82,17 @@ Además de mis conocimientos, aporto una actitud positiva, voluntad y motivació
 - ![Logo SQL](icons8-sql-60.png) Microsoft SQL Server
 - ![Logo Visual](icons8-visual-studio.svg) Visual Studio
 
-## **Competencias**
-   :heavy_check_mark: Capacidad resolutiva
+## **Competencies**
+   :heavy_check_mark: Resolution capacity
    
-   :heavy_check_mark: Proactivo
+   :heavy_check_mark: Proactive
    
-   :heavy_check_mark: Detallista
+   :heavy_check_mark: Retailer
 
-## **Referencias Profesionales**
+## **References**
 1. Diego Brandon
     - Director - Hotel Bahamas
 2. Eliana López
    - Team Leader Devoluciones - Despegar
 3. Diego Martínez 
-   - Jefe de Recepción - Hotel Bahamas
+   - Head of reception - Hotel Bahamas
