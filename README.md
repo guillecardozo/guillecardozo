@@ -18,6 +18,8 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :round_pushpin:  Montevideo, Uruguay
    
+   ![Logo_Fecha](calendar.png)  29/07/1994
+   
    :e-mail:  guille.cardozo94@gmail.com
 
    ![Logo LinkedIn](linkedin.png)  https://www.linkedin.com/in/guillermocardozo/
