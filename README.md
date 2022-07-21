@@ -8,9 +8,9 @@ Soy estudiante avanzado de la carrera Analista en Tecnologías de la Informació
 
 Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo de inglés fluido y conocimientos de portugués.
 
-Trabajador detallista y resolutivo, buen colaborador que prefiere el trabajo en equipo. De aprendizaje rápido. 
+Trabajador detallista, de aprendizaje rápido y resolutivo, buen colaborador que prefiere el trabajo en equipo.
 
-Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tecnologías.
+Además de mis conocimientos, aporto una actitud positiva, voluntad y motivación para aprender nuevas tecnologías.
 
 ### Datos personales:
 
