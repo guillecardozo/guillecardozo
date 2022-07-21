@@ -1,7 +1,7 @@
 # **Guillermo Cardozo - Estudiante avanzado de Programación**
 ![This is me](FotoGitHub.jpg)  
    
-## **Acerca de mí**   ![Logo LinkedIn](icons8-linkedin-circled.svg) https://www.linkedin.com/in/guillermocardozo/
+## :memo: **Acerca de mí**  
 Bienvenid@s a mi perfil! :wave: :computer:
 
 Soy estudiante avanzado de la carrera Analista en Tecnologías de la Información.
@@ -11,54 +11,66 @@ Con conocimientos sólidos en distintos lenguajes de programación y SQL, manejo
 Trabajador detallista y resolutivo, buen colaborador que prefiere el trabajo en equipo. De aprendizaje rápido. 
 
 Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tecnologías.
+
+ ![Logo LinkedIn](icons8-linkedin-circled.svg) https://www.linkedin.com/in/guillermocardozo/
    
 ## **Experiencia Laboral**
 
 ### Asistente de Laboratorio de Informática
 #### Universidad ORT del Uruguay - Montevideo, Uruguay
 ##### *Abril 2022 - Actual*
-* Instalación y actualización de Software en Equipos
-* Asistencia a Docentes
-* Responder consultas de alumnos sobre tareas de Programación y otras materias
+   :heavy_check_mark: Instalación y actualización de Software en Equipos
+   
+   :heavy_check_mark: Asistencia a Docentes
+   
+   :heavy_check_mark: Responder consultas de alumnos sobre tareas de Programación y otras materias
 
 ### IT Service Desk
 #### TATA Consultancy Services - Montevideo, Uruguay
 ##### *Enero 2022 - Abril 2022*
-* Brindar atención telefónica a clientes en USA sobre Hardware y Software
-* Uso de sistemas de tickets
-* Intercambio constante de chats y mails con diferentes clientes
+   :heavy_check_mark: Brindar atención telefónica a clientes en USA sobre Hardware y Software
+   
+   :heavy_check_mark: Uso de sistemas de tickets
+   
+   :heavy_check_mark: Intercambio constante de chats y mails con diferentes clientes
 
 ### Auditor Nocturno
 #### Hotel SB Diagonal Zero - Barcelona, España
 ##### *2019 - 2020*
-* Revisión de procesos de las distintas áreas del hotel
-* Atención al público
-* Elaboración de informes a Gerencia
+   :heavy_check_mark: Revisión de procesos de las distintas áreas del hotel
+   
+   :heavy_check_mark: Atención al público
+   
+   :heavy_check_mark: Elaboración de informes a Gerencia
 
 ### Agente de Devoluciones
 #### Despegar - Montevideo, Uruguay
 ##### *2017 - 2019*
-* Análisis profundo de reservas canceladas
-* Devolución por tarjeta de crédito según corresponda
-* Manejo de sistema interno, Outlook y planillas Excel
+   :heavy_check_mark: Análisis profundo de reservas canceladas
+   
+   :heavy_check_mark: Devolución por tarjeta de crédito según corresponda
+   
+   :heavy_check_mark: Manejo de sistema interno, Outlook y planillas Excel
 
 ### Agente de Reservas
 #### Hotel Bahamas - Canelones, Uruguay
 ##### *2016 - 2017*
-* Análisis profundo de reservas canceladas
-* Devolución por tarjeta de crédito según corresponda
-* Manejo de sistema interno, Outlook y planillas Excel
+   :heavy_check_mark:Análisis profundo de reservas canceladas
+   
+   :heavy_check_mark: Devolución por tarjeta de crédito según corresponda
+   
+   :heavy_check_mark:Manejo de sistema interno, Outlook y planillas Excel
 
 ## **Educación e Idiomas**
 
 1. Universidad ORT del Uruguay (2021 - Actualmente)
-  - Analista en Tecnologías de la Información
+   - Analista en Tecnologías de la Información
 2. Universidad ORT del Uruguay (Finalizado en 2017)
-  - Técnico en Gerencia Turística
+   - Técnico en Gerencia Turística
 3. Instituto Aspen Tree (University of Cambridge)
-  - First Certificate in English (2013)
+   - First Certificate in English (2013)
 4. Instituto Brasil Club
-  - Diploma de portugués básico (2014)
+   - Diploma de portugués básico (2014)
 
 ## **Habilidades**
 
@@ -72,9 +84,11 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
 - ![Logo Visual](icons8-visual-studio.svg) Visual Studio
 
 ## **Competencias**
-* Capacidad resolutiva
-* Proactivo
-* Detallista
+   :heavy_check_mark: Capacidad resolutiva
+   
+   :heavy_check_mark: Proactivo
+   
+   :heavy_check_mark: Detallista
 
 ## **Referencias Profesionales**
 1. Diego Brandon
