@@ -61,7 +61,7 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
    
    :heavy_check_mark:Manejo de sistema interno, Outlook y planillas Excel
 
-## **Educación e Idiomas**
+## ![Logo Educacion](educacion.png) **Educación e Idiomas**
 
 1. Universidad ORT del Uruguay (2021 - Actualmente)
    - Analista en Tecnologías de la Información
