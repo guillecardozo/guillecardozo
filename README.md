@@ -83,8 +83,9 @@ Aporto una actitud positiva y la voluntad y motivación para aprender nuevas tec
 2. Eliana López
    - Team Leader Devoluciones - Despegar
    - +598 95 523 114
-3. Rosana 
-   - Supervisora de Laboratorios de Informática - Universidad ORT
+3. Diego Martínez 
+   - Jefe de Recepción - Hotel Bahamas
+   - +598 99 537 797
 
 
 
