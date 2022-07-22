@@ -93,6 +93,6 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 1. Diego Brandon
     - Director - Bahamas Hotel
 2. Eliana López
-   - Team Leader Devoluciones - Despegar
+   - Team Leader Returns - Despegar
 3. Diego Martínez 
-   - Head of reception - Bahamas Hotel
+   - Head of Reception - Bahamas Hotel
