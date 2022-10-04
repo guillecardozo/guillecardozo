@@ -88,11 +88,3 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    :heavy_check_mark: Proactive
    
    :heavy_check_mark: Retailer
-
-## **References**
-1. Diego Brandon
-    - Director - Bahamas Hotel
-2. Eliana López
-   - Team Leader Returns - Despegar
-3. Diego Martínez 
-   - Head of Reception - Bahamas Hotel
