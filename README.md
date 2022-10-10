@@ -90,3 +90,4 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    :heavy_check_mark: Retailer
    
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillecardozo&theme=radical)](https://github.com/guillecardozo/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillecardozo&layout=compact)](https://github.com/guillecardozo/github-readme-stats)
