@@ -78,6 +78,7 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 - ![Logo React](icons8-react.svg) React JS
 - ![Logo Csharp](icons8-c-sharp-logo.svg) C#
 - ![Logo CSS](icons8-css3.svg) CSS
+- ![Logo Bootstrap](bootstrap.png)  Bootstrap
 - ![Logo HTML](icons8-html-5.svg) HTML5
 - ![Logo SQL](icons8-sql-60.png) Microsoft SQL Server
 - ![Logo Visual](icons8-visual-studio.svg) Visual Studio
