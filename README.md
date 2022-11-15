@@ -64,11 +64,13 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
 
 1. ORT University of Uruguay (2021 - Present)
    - Information Technology Analyst
-2. ORT University of Uruguay (2017)
+2. ORT University of Uruguay (2021 - 2022)
+   - Web Developer
+4. ORT University of Uruguay (2017)
    - Tourism Management Technician
-3. Aspen Tree Institute (University of Cambridge)
+5. Aspen Tree Institute (University of Cambridge)
    - First Certificate in English (2013)
-4. Brasil Club Institute
+6. Brasil Club Institute
    - Basic Portuguese Diploma (2014)
 
 ## **Technical skills**
