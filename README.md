@@ -1,10 +1,10 @@
-# **Guillermo Cardozo - Advanced Programming student**
+# **Guillermo Cardozo - Web Developer**
 ![This is me](FotoGitHub.jpg)  
    
 ## :memo: **About me**  
 Welcome to my profile! :wave: :computer:
 
-I am an advanced student of the Information Technology Analyst career at the ORT University of Uruguay.
+I am a Web Developer and an advanced student of the Information Technology Analyst career at the ORT University of Uruguay.
 
 With solid knowledge in different programming languages and SQL, fluent English and knowledge of Portuguese.
 
