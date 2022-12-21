@@ -33,32 +33,6 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    
    :heavy_check_mark: Constant exchange of chats and mails with different clients
 
-### :star: Night Auditor
-#### Hotel SB Diagonal Zero - Barcelona, España
-##### *2019 - 2020*
-   :heavy_check_mark: Review of processes in the different areas of the hotel
-   
-   :heavy_check_mark: Public attention
-   
-   :heavy_check_mark: Preparation of reports to Management
-
-### :star: Returns Agent
-#### Despegar - Montevideo, Uruguay
-##### *2017 - 2019*
-   :heavy_check_mark: Deep analysis of canceled reservations
-   
-   :heavy_check_mark: Refund by credit card as appropriate
-   
-   :heavy_check_mark: Management of internal system, Outlook and Excel
-
-### :star: Booking Agent
-#### Bahamas Hotel - Canelones, Uruguay
-##### *2016 - 2017*
-   :heavy_check_mark: Public attention
-   
-   :heavy_check_mark: Upload reservations to the system
-   
-   :heavy_check_mark: Revenue Management
 
 ## ![Logo Educacion](educacion.png) **Education and Languages**
 
@@ -66,11 +40,9 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    - Information Technology Analyst
 2. ORT University of Uruguay (2021 - 2022)
    - Web Developer
-4. ORT University of Uruguay (2017)
-   - Tourism Management Technician
-5. Aspen Tree Institute (University of Cambridge)
+3. Aspen Tree Institute (University of Cambridge)
    - First Certificate in English (2013)
-6. Brasil Club Institute
+4. Brasil Club Institute
    - Basic Portuguese Diploma (2014)
 
 ## **Technical skills**
