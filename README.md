@@ -12,6 +12,8 @@ Detail-oriented worker, quick and decisive learner, good collaborator who prefer
 
 In addition to my knowledge, I bring a positive attitude, willingness and motivation to learn new technologies.
 
+## **Visit my portfolio: https://guillermo-cardozo-portfolio.web.app/**
+
    
 ## **Work Experience**
 
