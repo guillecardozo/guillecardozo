@@ -17,9 +17,16 @@ In addition to my knowledge, I bring a positive attitude, willingness and motiva
    
 ## **Work Experience**
 
+### :star: .NET Developer
+#### Zenga S.A. - Montevideo, Uruguay
+##### *February 2023 - Present*
+   :heavy_check_mark: Software developer with C# 
+   
+   :heavy_check_mark: Use of differents technologies and tools
+
 ### :star: Computer Laboratory Assistant
 #### ORT University of Uruguay - Montevideo, Uruguay
-##### *April 2022 - Present*
+##### *April 2022 - January 2023*
    :heavy_check_mark: Installation and updating of Software 
    
    :heavy_check_mark: Assistance to Teachers
